@@ -2,7 +2,7 @@
 layout: post
 title:  "Arduino Macro Rail For Photography"
 date:   2016-11-17 16:16:01 -0600
-categories: arduino photography
+categories: [arduino, photography]
 ---
 
 When taking photos with reversed lenses for macro purposes , focused area is so small its usually necessary to move the object and take multiple photos of it with different focus points each time. While there are multiple specialized devices for this , i wanted it to be cheap and buildable from rather easily available parts.
