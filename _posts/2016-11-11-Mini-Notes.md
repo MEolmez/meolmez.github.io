@@ -3,7 +3,7 @@ layout: post
 title:  Mini Notes
 ---
 
-# Table Of Contents
+So most electronics hobbyist will buy a lot of modules, and often they are not very well documented, and it is possible for module info to completely disappear from the internet. In this page I will try to keep the info about the modules I buy as a reference.
 
 1-) XL4015 Buck converter
 
