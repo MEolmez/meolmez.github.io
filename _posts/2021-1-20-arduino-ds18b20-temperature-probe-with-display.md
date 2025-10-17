@@ -3,6 +3,9 @@ layout: post
 title:  "Arduino Low Power Consumption DS18B20 Temperature Probe With Display"
 date:   2021-01-20 16:16:01 -0600
 categories: arduino 
+image:
+  path: /assets/tempProbe.jpg
+  alt: Probe
 ---
 
 I wanted to make a waterproof temperature probe with a low current consumption. 
