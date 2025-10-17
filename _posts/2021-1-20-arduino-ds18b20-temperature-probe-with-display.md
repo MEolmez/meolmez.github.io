@@ -24,8 +24,4 @@ This way the entire setup uses 6ma. Its possible to further reduce this values b
 Code is <a href="https://github.com/MEolmez/arduino-ds18b20-temperature-probe-with-display">HERE</a>
 
 
-![usefulimage]({{https://meolmez.github.io}}/assets/tempProbe.jpg)
-
-
-
-
+![usefulimage](/assets/tempProbe.jpg)
