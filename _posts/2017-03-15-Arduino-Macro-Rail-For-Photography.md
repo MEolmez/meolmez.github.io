@@ -5,7 +5,7 @@ date:   2017-03-15 16:16:01 -0600
 categories: [arduino, photography]
 tags: [arduino, photography, macro]
 image:
-  path: /assets/Setup.jpg
+  path: /assets/Result1.jpg
   alt: Arduino Macro Rail Setup
 ---
 
