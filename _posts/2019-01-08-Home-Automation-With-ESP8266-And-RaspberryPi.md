@@ -1,3 +1,13 @@
+---
+layout: post
+title:  "Home Automation with ESP8266 and Raspberry Pi"
+date:   2016-11-11 16:16:01 -0600
+categories: arduino 
+---
+
+
+
+
 Home Automation with ESP8266 and Raspberry Pi
 
 
