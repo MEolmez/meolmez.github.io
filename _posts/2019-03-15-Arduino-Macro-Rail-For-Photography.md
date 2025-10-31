@@ -4,6 +4,7 @@ title:  "Arduino Macro Rail For Photography"
 date:   2019-03-15 16:16:01 -0600
 categories: [arduino, photography]
 tags: [arduino, photography, macro]
+pin: true
 image:
   path: /assets/Result1.jpg
   alt: Arduino Macro Rail Setup
