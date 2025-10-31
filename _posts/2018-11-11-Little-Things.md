@@ -2,7 +2,7 @@
 layout: post
 title:  "Little things I made"
 date:   2020-11-11 16:16:01 -0600
-categories: arduino 
+categories: [arduino, electronics]
 ---
 
 

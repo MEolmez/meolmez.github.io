@@ -2,8 +2,8 @@
 layout: post
 title:  "A Telescope Journey"
 date:   2024-05-06 18:16:01 -0600
-categories: astronomy 
-tags:[astronomy, telescope]
+categories: [astronomy]
+tags: [astronomy, telescope]
 image:
   path: /assets/bothScopes.jpg
   alt: Probe
