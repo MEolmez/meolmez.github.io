@@ -6,7 +6,7 @@ categories: [astronomy]
 tags: [astronomy, telescope]
 image:
   path: /assets/bothScopes.jpg
-  alt: 
+  alt: Telescope
 ---
 
 
@@ -29,3 +29,5 @@ Then some months later I found a 8" Bresser Dobsonian at another local sellers w
 
 Since I lived in the city, first target was Moon. I was lucky to have eyepieces beforehand as the scope came with a 25mm SuperPlössl. With my 6mm eyepiece, next target was Jupiter. For target spotting the 6x30 spotter was lacking, I got a Telrad and I am still trying to get better on finding targets on sky. So of course I bought "Turn Right on Orion". 
 
+![moon1](/assets/moon1.jpg)
+![moon2](/assets/moon2.jpg)
