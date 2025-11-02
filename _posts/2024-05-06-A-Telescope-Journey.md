@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A Telescope Journey"
-date:   2024-05-06 18:16:01 -0600
+date:   2024-05-06 17:16:01 -0600
 categories: [astronomy]
 tags: [astronomy, telescope]
 image:
