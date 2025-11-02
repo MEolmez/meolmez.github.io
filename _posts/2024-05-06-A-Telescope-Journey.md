@@ -20,9 +20,12 @@ To stratch the itch, I started trying astrophotography with my Canon 600D. Below
 ![andromeda](/assets/andromeda.jpg)
 
 Then, I stumbled upon the 3d printable DIY Telescope Hadley ( https://www.printables.com/model/224383-astronomical-telescope-hadley-an-easy-assembly-hig ). Since I had a 3d printer, it was perfect for me. After sourcing the mirrors, eyepieces (6mm and 22mm Svbony) from usual suspects and getting other hardware locally, I hastily built it, building it was fun! It gave very nice views of the moon, but instead of satisfying my telescope itch, it motivated me to get a better telescope.
-![hadley](/assets/hadley.jpg){: width="768" height="620" }
+![hadley](/assets/hadley.jpg)
 
 A year later miracle happened, and I found a 8" Dobsonian telescope at a local seller! I quickly put the order and waited for shipping. When they did not ship it I called them, they assured me nothing was wrong and it would be shipped just a couple days later. 2 days later they cancelled the order, and jacked up the price 3 times of what it was. That was a weird experience.
 
-Then some months later I found a 8" Bresser Dobsonian at another local sellers website, and it was only just a little bit higher than prices at EU. I was skeptical but my enthusiasm got the best of me and I ordered the scope from their website. A day later they called me and said "You ordered a 8" but we also have a 10", do you want it instead?", I asked about the price difference and they said there wont be a difference because boss wants the 10" gone, of course I said yes. Although I could not belive it, the telescope really arrived 3 days later. It was a surreal feeling, wanting something for 25 years and suddenly having it.
-![bresser](/assets/bothScopes.jpg){: w="666" h="980" }
+Then some months later I found a 8" Bresser Dobsonian at another local sellers website, and it was only just a little bit higher than prices at EU. I was skeptical but my enthusiasm got the best of me and I ordered the scope from their website. A day later they called me and said "You ordered a 8" but we also have a 10", do you want it instead?", I asked about the price difference and they said there wont be a difference because boss wants the 10" gone, of course I said yes! Although I could not believe it, the telescope really arrived 3 days later, seller was awesome! It was a surreal feeling, wanting something for 25 years and suddenly having it.
+![bresser](/assets/bothScopes.jpg)
+
+Since I lived in the city, first target was Moon. I was lucky to have eyepieces beforehand as the scope came with a 25mm SuperPlössl. With my 6mm eyepiece, next target was Jupiter. For target spotting the 6x30 spotter was lacking, I got a Telrad and I am still trying to get better on finding targets on sky. So of course I bought "Turn Right on Orion". 
+
