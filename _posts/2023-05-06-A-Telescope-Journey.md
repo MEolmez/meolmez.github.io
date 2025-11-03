@@ -28,7 +28,7 @@ A year later miracle happened, and I found a 8" Dobsonian telescope at a local s
 Then some months later I found a 8" Bresser Dobsonian at another local sellers website, and it was only just a little bit higher than prices at EU. I was skeptical but my enthusiasm got the best of me and I ordered the scope from their website. A day later they called me and said "You ordered a 8" but we also have a 10", do you want it instead?", I asked about the price difference and they said there wont be a difference because boss wants the 10" gone, of course I said yes! Although I could not believe it, the telescope really arrived 3 days later, seller was awesome! It was a surreal feeling, wanting something for 25 years and suddenly having it.
 ![bresser](/assets/bothScopes.jpg)
 
-Since I lived in the city, first target was Moon. I was lucky to have eyepieces beforehand as the scope came with a 25mm SuperPl�ssl. With my 6mm eyepiece, next target was Jupiter. For target spotting the 6x30 spotter was lacking, I got a Telrad and I am still trying to get better on finding targets on sky. So of course I bought "Turn Right on Orion". 
+Since I lived in the city, first target was Moon. I was lucky to have eyepieces beforehand as the scope came with a 25mm SuperPlossl. With my 6mm eyepiece, next target was Jupiter. For target spotting the 6x30 spotter was lacking, I got a Telrad and I am still trying to get better on finding targets on sky. So of course I bought "Turn Right on Orion". 
 
 ![moon1](/assets/moon1.jpg)
 ![moon2](/assets/moon2.jpg)
