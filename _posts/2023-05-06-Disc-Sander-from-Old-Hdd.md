@@ -13,7 +13,5 @@ image:
 
 
 ![sander2](/assets/sander2.jpg)
-
-![sander3](/assets/sander3.jpg)
-
-<img src="/assets/sander3.jpg" style="max-width:400px;" alt="sander3">
+<img src="/assets/sander2.jpg" style="max-width:600px;" alt="sander2">
+<img src="/assets/sander3.jpg" style="max-width:600px;" alt="sander3">
