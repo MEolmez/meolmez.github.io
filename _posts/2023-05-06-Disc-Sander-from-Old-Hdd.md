@@ -5,7 +5,7 @@ date:   2024-05-06 17:16:01 -0600
 categories: [DIY]
 tags: [DIY, upcycle]
 image:
-  path: /assets/Sander.jpg
+  path: /assets/sander.jpg
   alt: Sander
 
 ---
