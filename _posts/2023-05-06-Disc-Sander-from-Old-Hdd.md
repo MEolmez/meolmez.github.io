@@ -16,4 +16,4 @@ image:
 
 ![sander3](/assets/sander3.jpg)
 
-<img src="/assets/img/sander3.jpg" style="max-width:400px;">
+<img src="/assets/sander3.jpg" style="max-width:400px;" alt="sander3">
