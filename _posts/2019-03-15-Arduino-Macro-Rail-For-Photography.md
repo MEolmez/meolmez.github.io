@@ -19,6 +19,7 @@ Code is <a href="https://github.com/MEolmez/Macro-Rail-v2">HERE</a>
 
 ![usefulimage](/assets/Setup.jpg)
 ![usefulimage2](/assets/Result1.jpg)
+![usefulimage7](/assets/Untitled1.jpg)
 ![usefulimage3](/assets/Untitled_Panorama1.jpg)
 ![usefulimage4](/assets/Untitled_Panorama2.jpg)
 ![usefulimage5](/assets/Untitled_Panorama3.jpg)
