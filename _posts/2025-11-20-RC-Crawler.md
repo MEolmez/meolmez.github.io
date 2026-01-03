@@ -24,7 +24,8 @@ I wanted this vehicle to be slow but powerful, I needed geared motors. They were
 Those motors were powerful alright, and consequently poor DRV8833 had no hope of driving them. I ordered a pair of BTS7960B, saw them on a James Bruton video.
 For power, I used my 3s4p battery pack I made from 18650 cells I salvaged from flea market find laptop batteries. It was starting to take shape!
 At first I was using Blynk. After another break from the project I found out they removed the app and changed focus. This gave me the push I needed to make the car truly RC.
-Next addition was NRF24L01+. Code side of things were easy with Blynk, and NRF24L01+ pushed me to learn more and more of Arduino environment. I had to build a remote controller too.
-
 
 <img src="/assets/RoverEvo.jpg" style="max-width:700px; max-height: 550px;" alt="RoverEvo">
+
+Next addition was NRF24L01+. Code side of things were easy with Blynk, and NRF24L01+ pushed me to learn more and more of Arduino environment. I had to build a remote controller too.
+<img src="/assets/rcTransmitter.jpg" style="max-width:700px; max-height: 550px;" alt="transmitter">
