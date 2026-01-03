@@ -19,7 +19,7 @@ My second attempt used those generic yellow geared motors with an esp8266 and DR
 So I moved to wheels from KNEX. Alas, the KNEX wheels did not cut it either, I kind of placed that project on back burner.
 Some time later I found the perfect wheels from banggood. Ordered immediately. They were 12 cm high, perfect off-road wheels. But of course I could not drive them with those yellow motors, so the search for the motor begun.
 
-I wanted this vehicle to be slow but powerful, I needed geared motors. They were pretty expensive which led me to second hand market and scrap yards. After couple of months I found my motors, 12v 150 RPM metal geared motors from a scrap yard. I needed 4, but bought 5 and made a crank lamp from one of them.
+I wanted this vehicle to be slow but powerful, I needed geared motors. They were pretty expensive which led me to second hand market and scrap yards. After couple of months I found my motors, 12v 150 RPM metal geared motors from a scrap yard. I needed 4, but I bought 5 and made a hand crank powered emergency lamp from one of them.
 
 Those motors were powerful alright, and consequently poor DRV8833 had no hope of driving them. I ordered a pair of BTS7960B, saw them on a James Bruton video.
 For power, I used my 3s4p battery pack I made from 18650 cells I salvaged from flea market find laptop batteries. It was starting to take shape!
