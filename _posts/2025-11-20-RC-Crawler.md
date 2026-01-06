@@ -27,5 +27,10 @@ At first I was using Blynk. After another break from the project I found out the
 
 <img src="/assets/RoverEvo.jpg" style="max-width:700px; max-height: 550px;" alt="RoverEvo">
 
-Next addition was NRF24L01+. Code side of things were easy with Blynk, and NRF24L01+ pushed me to learn more and more of Arduino environment. I had to build a remote controller too.
+Next addition was NRF24L01+, with it I changed from esp8266 to Arduino Uno. Code side of things were easy with Blynk, and NRF24L01+ pushed me to learn more and more of Arduino environment. I had to build a remote controller too.
 <img src="/assets/rcTransmitter.jpg" style="max-width:700px; max-height: 550px;" alt="transmitter">
+
+Finally it was working like expected. It had good range too. Also I changed the big BTS7960B drivers to much more space efficient VNH2SP30 Dual Motor Shield. 
+The more I used the car the more I hated the Joystick module. It made fine control impossible, even though it was a potentiometer based joystick it was acting like an on/off stick, you either stopped or got full throttle. Of course I had to change it.
+
+I got the idea to use hall effect based joystick modules people use to change ps5 controller joysticks. Ordered some from Temu, figuring out the pins took some digging, but after calibrating the values they give in the sofware they worked like charm! At the start I forgot that they were 3.3v devices and connected them straight to 5v, thankfuly they did not fail.
