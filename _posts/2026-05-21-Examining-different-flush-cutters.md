@@ -12,20 +12,16 @@ Then I wanted to "test" it, which means simply taking a photo of a copper wire c
 
 <img src="/assets/platoModel170-2-2.jpg" style="max-width:700px; max-height: 550px;" alt="Plato Model 170-2 flush cutter copper wire cut">
 
-## Cutters tested
 
-## Test setup
+Then I bought a Rolson 20540 Snip Cutter. I bought it thinking it would be vastly better than my Plato cutters, I was so so wrong. It was useless.
 
-## Copper wire cut comparisons
+<img src="/assets/rolson2.jpg" style="max-width:700px; max-height: 550px;" alt="Rolson flush cutter copper wire cut">
 
-### Cutter 1
+I wanted to buy a nice one after the Rolson fiasco, so I bought Xuron from amazon.us before personal imports got banned in here. I am really happy with it.
 
-### Cutter 2
+<img src="/assets/xuron.jpg" style="max-width:700px; max-height: 550px;" alt="xuron flush cutter copper wire cut">
 
-### Cutter 3
+And this is from the cutter of Engineer PZ-58, not really comparable, but I was curious.
 
-### Cutter 4
+<img src="/assets/pz-58.jpg" style="max-width:700px; max-height: 550px;" alt="pz-58 copper wire cut">
 
-## Observations
-
-## Conclusion
