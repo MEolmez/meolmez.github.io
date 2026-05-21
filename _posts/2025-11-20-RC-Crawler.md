@@ -11,11 +11,13 @@ image:
 ---
 
 Apparently as a kid I broke up all my RC cars to look inside and learn how they work, I failed. And one point my parents stopped buying me RC cars. I waited a loooong time, but I learned how they worked! 
-And of course I had to make one myself. My first attemp was a KNEX car. I love KNEX! I fell in love with them when they were giving very small kits of it with newsletters when I was very little. When I had a job and had the money to buy them they were not available in my country, so I bought a set from Amazon US, thinking no way it would arrive, and it did!  It was a lot of fun to build, I just love gears. But it was not exactly what I had in mind, so it got disassembled.
+And of course I had to make one myself. My first attemp was a KNEX car. I love KNEX! I fell in love with them when they were giving very small kits of it with newsletters when I was very little. When I had a job and had the money to buy them they were not available in my country, so I bought a set from Amazon US, thinking no way it would arrive, and it did!  It was a lot of fun to build, I just love gears. But it was not exactly what I had in mind, so it got disassembled, I wanted a 4x4.
 
 <img src="/assets/KnexCar.jpg" style="max-width:700px; max-height: 550px;" alt="KnexEvo">
 
 My second attempt used those generic yellow geared motors with an esp8266 and DRV8833 driver. But I did not want a normal RC car, I wanted it to be driveable in many different surfaces, and wheels that come with the motors did not have much grip.
+
+
 So I moved to wheels from KNEX. Alas, the KNEX wheels did not cut it either, I kind of placed that project on back burner.
 Some time later I found the perfect wheels from banggood. Ordered immediately. They were 12 cm high, perfect off-road wheels. But of course I could not drive them with those yellow motors, so the search for the motor begun.
 
