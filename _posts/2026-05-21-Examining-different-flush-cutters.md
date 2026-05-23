@@ -4,6 +4,9 @@ title:  "Examining different flush cutters"
 date:   2026-05-21 19:02:38 +0300
 categories: [DIY]
 tags: [DIY, tools, flush cutters]
+image:
+  path: /assets/xuron.jpg
+  alt: Xuron flush cutter copper wire cut
 ---
 
 One day I realized I was using the flush cutters came with my first 3D printer (Ender 3) a lot, it was one of the most used tools in my bench.
@@ -24,4 +27,3 @@ I wanted to buy a nice one after the Rolson fiasco, so I bought Xuron from amazo
 And this is from the cutter of Engineer PZ-58, not really comparable, but I was curious.
 
 <img src="/assets/pz-58.jpg" style="max-width:700px; max-height: 550px;" alt="pz-58 copper wire cut">
-
