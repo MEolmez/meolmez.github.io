@@ -9,7 +9,7 @@ So most electronics hobbyist will buy a lot of modules, and often they are not v
 
 What i like about this module is its current limiting feature , so even if you short its outputs it does not gets damaged (or it should not, you can never be sure with these cheap modules). And of course the supposed 5A output capability is too generous of an estimate.
 
-![xl4015e1](/assets/xl4015e1.jpg)
+![xl4015e1](/assets/2016-11-11-mini-notes/xl4015e1.jpg)
 
 <details>
     <summary>Click to expand</summary>
@@ -29,4 +29,3 @@ Module dimensions: length 51mm width 26mm height 15mm
 Weight: 23g 
 
 </details>
-

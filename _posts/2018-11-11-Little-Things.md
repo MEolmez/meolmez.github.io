@@ -8,15 +8,15 @@ categories: [arduino, electronics]
 
 1-) Solar Powered Weather Station
 
-![weatherstation](/assets/WeatherStation.jpg)
-![weatherstation2](/assets/WeatherStation2.jpg)
+![weatherstation](/assets/2018-11-11-little-things/WeatherStation.jpg)
+![weatherstation2](/assets/2018-11-11-little-things/WeatherStation2.jpg)
 <br>
 <br>
 <br>
 
 2-) Arduino Voltmeter , Ammeter , Ohmmeter With INA219
 
-![ohm](/assets/20170914_002815.jpg)
+![ohm](/assets/2018-11-11-little-things/20170914_002815.jpg)
 
 <br>
 <br>
@@ -24,15 +24,15 @@ categories: [arduino, electronics]
 
 3-) Python Tkinter Multiplying Exercise
 
-![multiply](/assets/Multiply1.jpg)
-![multiply2](/assets/Multiply2.jpg)
+![multiply](/assets/2018-11-11-little-things/Multiply1.jpg)
+![multiply2](/assets/2018-11-11-little-things/Multiply2.jpg)
 
 <br>
 <br>
 <br>
 
 4-) 3S 18650 12.6V Battery Pack From Salvaged Cells
-![3S](/assets/3sLionPack.jpg)
+![3S](/assets/2018-11-11-little-things/3sLionPack.jpg)
 
 <br>
 <br>
@@ -40,7 +40,7 @@ categories: [arduino, electronics]
 
 5-) Repurposing Old RC Car with ESP8266 For Control Over Wifi
 
-![RC](/assets/refittedToyCar.jpg)
+![RC](/assets/2018-11-11-little-things/refittedToyCar.jpg)
 <br>
 <br>
 <br>
@@ -49,7 +49,7 @@ categories: [arduino, electronics]
 
 6-) Cordless Screwdriver Battery Nicad to Li-ion Conversion
 
-![5S](/assets/drillBattery.jpg)
+![5S](/assets/2018-11-11-little-things/drillBattery.jpg)
 <br>
 <br>
 <br>

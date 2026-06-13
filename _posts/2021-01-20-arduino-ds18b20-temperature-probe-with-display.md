@@ -4,7 +4,7 @@ title:  "Arduino Low Power Consumption DS18B20 Temperature Probe With Display"
 date:   2021-01-20 16:16:01 -0600
 categories: arduino 
 image:
-  path: /assets/tempProbe.jpg
+  path: /assets/2021-01-20-temperature-probe/tempProbe.jpg
   alt: Probe
 ---
 
@@ -24,4 +24,4 @@ This way the entire setup uses 6ma. Its possible to further reduce this values b
 Code is <a href="https://github.com/MEolmez/arduino-ds18b20-temperature-probe-with-display">HERE</a>
 
 
-![usefulimage](/assets/tempProbe.jpg)
+![usefulimage](/assets/2021-01-20-temperature-probe/tempProbe.jpg)
