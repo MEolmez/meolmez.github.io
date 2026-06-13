@@ -36,3 +36,17 @@ Finally it was working like expected. It had good range too. Also I changed the 
 The more I used the car the more I hated the Joystick module. It made fine control impossible, even though it was a potentiometer based joystick it was acting like an on/off stick, you either stopped or got full throttle. Of course I had to change it.
 
 I got the idea to use hall effect based joystick modules people use to change ps5 controller joysticks. Ordered some from Temu, figuring out the pins took some digging, but after calibrating the values they give in the sofware they worked like charm! At the start I forgot that they were 3.3v devices and connected them straight to 5v, thankfuly they did not fail.
+
+## More photos
+
+<div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(180px, 1fr)); gap:0.75rem;">
+  <a href="/assets/2025-11-20-rc-crawler/rover-early-1.jpg">
+    <img src="/assets/2025-11-20-rc-crawler/rover-early-1.jpg" style="width:100%; height:auto;" alt="Early RC rover build">
+  </a>
+  <a href="/assets/2025-11-20-rc-crawler/rover-early-2.jpg">
+    <img src="/assets/2025-11-20-rc-crawler/rover-early-2.jpg" style="width:100%; height:auto;" alt="4x4 RC rover build">
+  </a>
+  <a href="/assets/2025-11-20-rc-crawler/rover-early-3.jpg">
+    <img src="/assets/2025-11-20-rc-crawler/rover-early-3.jpg" style="width:100%; height:auto;" alt="4x4 RC rover chassis">
+  </a>
+</div>
